@@ -2,11 +2,42 @@ h1{
     color: black;
 }
 body{
-    background-image: url("https://kartinkin.net/uploads/posts/2021-03/thumbs/1616033927_16-p-fon-vlastelin-kolets-16.jpg");
+    background-image: url("C:/Users/FEDOR/Documents/Site html/images/GREAT.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
 }
+    h1{
+        color: yellowgreen;
+      
+    }
+  
+
+
+    
 p{
-    color: black;
+    color: purple;
 }
 body{
-    color: black;
+    color: green;
+}
+h2{
+    text-indent: 30px;
+    border: 5px groove black;
+    padding: 10px 20px 10px 20px;
+    margin: 20px auto;
+    width: 400px;
+    
+}
+
+.cursive{
+    font-family: cursive;
+
+}
+
+del{
+    text-decoration: line-through;
+    text-decoration-color: black;
 }
