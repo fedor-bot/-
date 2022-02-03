@@ -1,18 +1,22 @@
 .box{
-    width: 700px;
-    height: 400px;
-    background-color: white;
-    padding: 10px 20px;
+    background-color: aliceblue;
     border-color: black;
-    border-width: 3px;
+    width: 800px;
+    height: 400px;
+    border-width: 5px;
     border-style: solid;
-    background-image: url("C:\Users\FEDOR\Documents\Блочная модель\new progect\mod.img.png");
-    background-position: left;
-    background-repeat: no-repeat;
-    background-size: cover;
+    padding: 20px;
 }
 
-div{
-text-align: right;
+h1{
+    text-align: right ;
 }
-    
+p{
+    text-align: right ;
+}
+span{
+    text-align: right;
+}
+button{
+    text-align: right center;
+}
