@@ -2,7 +2,9 @@
     box-sizing: border-box;
 }
 
-
+body{
+    background-color: gray;
+}
 
 .parent{
     width: 1010px;
@@ -11,6 +13,7 @@
     display: inline-block;
     margin: 86px 95px 86px 95px;
     text-align: center;
+    background-color: white;
 }
 
 
